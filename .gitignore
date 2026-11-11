@@ -9,3 +9,5 @@ trajectories.csv
 # Python cache and locally generated images/webpages
 __pycache__/
 *.html
+*.png
+!preview.png
