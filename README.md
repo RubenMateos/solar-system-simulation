@@ -19,8 +19,7 @@ A physics-based simulation of the Solar System written in C++ and visualized int
    ```bash
    g++ *.cpp -o simulator
 2. Run the simulation (this will generate a trajectories.csv):
-    ./simulator
+    ```./simulator
 3. Launch the interactive visualization:
-    python plot.py
+    ```python plot.py
     
-    ```
