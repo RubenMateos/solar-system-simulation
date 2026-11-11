@@ -1,0 +1,11 @@
+# C++ compilation files
+*.exe
+*.out
+simulator
+
+# Generated data files
+trajectories.csv
+
+# Python cache and locally generated images/webpages
+__pycache__/
+*.html
